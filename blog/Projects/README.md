@@ -74,7 +74,7 @@
 | 09 |	Sound Board	                       | [Live Demo](sound-board)                    |
 | 10 |	Dad Jokes	                         | [Live Demo](dad-jokes)                      |
 | 11 |	Event Keycodes	                   | [Live Demo](event-keycodes)                  |
-| 12 |	Faq Collaps                        | [Live Demo](faq-collaps)                    |
+| 12 |	Faq Collaps                        | [Live Demo](faq-collapse)                   |
 | 13 |	Random Choice Picker	             | [Live Demo](random-choice-picker)            |
 | 14 |	Animated Navigation	               | [Live Demo](animated-navigation)            |
 | 15 |	Incrementing Counter	             | [Live Demo](incrementing-counter)            |
@@ -87,7 +87,7 @@
 | 22 |	Drawing App                        | [Live DemO](drawing-app)                    |
 | 23 |	Kinetic Loader	                   | [Live Demo](kinetic-loader)                  |
 | 24 |	Content Placeholder	               | [Live Demo](content-placeholder)            |
-| 25 |	Sticky Navbar	                     | [Live Demo](sticky-navbar)                  |
+| 25 |	Sticky Navbar	                     | [Live Demo](sticky-navigation)              |
 | 26 |	Double Vertical Slider	           | [Live Demo](double-vertical-slider)          |
 | 27 |	Toast Notification	               | [Live Demo](toast-notification)              |
 | 28 |	Github Profiles	                   | [Live Demo](github-profiles)                |
@@ -102,7 +102,7 @@
 | 37 |	Pokedex	                           | [Live Demo](pokedex)                        |
 | 38 |	Mobile Tab Navigation	             | [Live Demo](mobile-tab-navigation)          |
 | 39 |	Password Strength Background	     | [Live Demo](password-strength-background	)   |
-| 40 |	3d Background Boxes	               | [Live Demo](3d-background-boxes)            |
+| 40 |	3d Background Boxes	               | [Live Demo](3d-boxes-background)            |
 | 41 |	Verify Account Ui	                 | [Live Demo](verify-account-ui)              |
 | 42 |	Live User Filter	                 | [Live Demo](live-user-filter)                |
 | 43 |	Feedback Ui Design	               | [Live Demo](feedback-ui-design)              |
