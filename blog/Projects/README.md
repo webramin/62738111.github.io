@@ -110,7 +110,7 @@
 | 45 |	Netflix Mobile Navigation	         | [Live Demo](netflix-mobile-navigation)      |
 | 46 |	Quiz App	                         | [Live Demo](quiz-app)                        |
 | 47 |	Testimonial Box Switcher	         | [Live Demo](testimonial-box-switcher)        |
-| 48 |	Random Image Feed	                 | [Live Demo](random-image-feed)              |
+| 48 |	Random Image Feed	                 | [Live Demo](random-image-generator)         |
 | 49 |	Todo List	                         | [Live Demo](todo-list)                      |
 | 50 |	Insect Catch Game	                 | [Live Demo](insect-catch-game)              |
 
