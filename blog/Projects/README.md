@@ -65,54 +65,54 @@
 |:---:|:----------------------------------:|:--------------------------------------------:|
 | 01 |  Expanding Cards	                   | [Live Demo](expanding-cards)                 |
 | 02 |	Progress Steps	                   | [Live Demo](progress-steps)                  |
-| 03 |	Rotating Navigation Animation	     | [Live Demo](rotating-nav-animation)   |
+| 03 |	Rotating Navigation Animation	     | [Live Demo](rotating-nav-animation)         |
 | 04 |	Hidden Search Widget	             | [Live Demo](hidden-search-widget)            |
 | 05 |	Blurry Loading	                   | [Live Demo](blurry-loading)                  |
 | 06 |	Scroll Animation	                 | [Live Demo](scroll-animation)                |
 | 07 |	Split Landing Page	               | [Live Demo](split-landing-page)              |
-| 08 |	Form Wave	                         | [Live Demo](form-wave)                       |
-| 09 |	Sound Board	                       | [Live Demo](sound-board)                     |
-| 10 |	Dad Jokes	                         | [Live Demo](dad-jokes)                       |
+| 08 |	Form Wave	                         | [Live Demo](form-input-wave)                |
+| 09 |	Sound Board	                       | [Live Demo](sound-board)                    |
+| 10 |	Dad Jokes	                         | [Live Demo](dad-jokes)                      |
 | 11 |	Event Keycodes	                   | [Live Demo](event-keycodes)                  |
-| 12 |	Faq Collaps                        | [Live Demo](faq-collaps)                     |
+| 12 |	Faq Collaps                        | [Live Demo](faq-collaps)                    |
 | 13 |	Random Choice Picker	             | [Live Demo](random-choice-picker)            |
-| 14 |	Animated Navigation	               | [Live Demo](animated-navigation)             |
+| 14 |	Animated Navigation	               | [Live Demo](animated-navigation)            |
 | 15 |	Incrementing Counter	             | [Live Demo](incrementing-counter)            |
-| 16 |	Drink Water                        | [Live DemO](drink-water)                     |
-| 17 |	Movie App	                         | [Live Demo](movie-app)                       |
-| 18 |	Background Slider	                 | [Live Demo](background-slider)               |
-| 19 |	Theme Clock                        | [Live DemO](theme-clock)                     |
+| 16 |	Drink Water                        | [Live DemO](drink-water)                    |
+| 17 |	Movie App	                         | [Live Demo](movie-app)                      |
+| 18 |	Background Slider	                 | [Live Demo](background-slider)              |
+| 19 |	Theme Clock                        | [Live DemO](theme-clock)                    |
 | 20 |	Button Ripple Effect	             | [Live Demo](button-ripple-effect)            |
-| 21 |	Drag N Drop                        | [Live DemO](drag-n-drop)                     |
-| 22 |	Drawing App                        | [Live DemO](drawing-app)                     |
+| 21 |	Drag N Drop                        | [Live DemO](drag-n-drop)                    |
+| 22 |	Drawing App                        | [Live DemO](drawing-app)                    |
 | 23 |	Kinetic Loader	                   | [Live Demo](kinetic-loader)                  |
-| 24 |	Content Placeholder	               | [Live Demo](content-placeholder)             |
-| 25 |	Sticky Navbar	                     | [Live Demo](sticky-navbar)                   |
+| 24 |	Content Placeholder	               | [Live Demo](content-placeholder)            |
+| 25 |	Sticky Navbar	                     | [Live Demo](sticky-navbar)                  |
 | 26 |	Double Vertical Slider	           | [Live Demo](double-vertical-slider)          |
 | 27 |	Toast Notification	               | [Live Demo](toast-notification)              |
-| 28 |	Github Profiles	                   | [Live Demo](github-profiles)                 |
+| 28 |	Github Profiles	                   | [Live Demo](github-profiles)                |
 | 29 |	Double Click Heart	               | [Live Demo](double-click-heart)              |
 | 30 |	Auto Text Effect	                 | [Live Demo](auto-text-effect)                |
 | 31 |	Password Generator	               | [Live Demo](password-generator)              |
-| 32 |	Good Cheap Fast	                   | [Live Demo](good-cheap-fast)                 |
-| 33 |	Notes App	                         | [Live Demo](notes-app)                       |
+| 32 |	Good Cheap Fast	                   | [Live Demo](good-cheap-fast)                |
+| 33 |	Notes App	                         | [Live Demo](notes-app)                      |
 | 34 |	Animated Countdown	               | [Live Demo](animated-countdown)              |
 | 35 |	Image Carousel	                   | [Live Demo](image-carousel)                  |
 | 36 |	Hoverboard	                       | [Live Demo](hoverboard)                      |
-| 37 |	Pokedex	                           | [Live Demo](pokedex)                         |
-| 38 |	Mobile Tab Navigation	             | [Live Demo](mobile-tab-navigation)           |
+| 37 |	Pokedex	                           | [Live Demo](pokedex)                        |
+| 38 |	Mobile Tab Navigation	             | [Live Demo](mobile-tab-navigation)          |
 | 39 |	Password Strength Background	     | [Live Demo](password-strength-background	)   |
-| 40 |	3d Background Boxes	               | [Live Demo](3d-background-boxes)             |
-| 41 |	Verify Account Ui	                 | [Live Demo](verify-account-ui)               |
+| 40 |	3d Background Boxes	               | [Live Demo](3d-background-boxes)            |
+| 41 |	Verify Account Ui	                 | [Live Demo](verify-account-ui)              |
 | 42 |	Live User Filter	                 | [Live Demo](live-user-filter)                |
 | 43 |	Feedback Ui Design	               | [Live Demo](feedback-ui-design)              |
-| 44 |	Custom Range Slider	               | [Live Demo](custom-Range-slider)             |
-| 45 |	Netflix Mobile Navigation	         | [Live Demo](netflix-mobile-navigation)       |
+| 44 |	Custom Range Slider	               | [Live Demo](custom-Range-slider)            |
+| 45 |	Netflix Mobile Navigation	         | [Live Demo](netflix-mobile-navigation)      |
 | 46 |	Quiz App	                         | [Live Demo](quiz-app)                        |
 | 47 |	Testimonial Box Switcher	         | [Live Demo](testimonial-box-switcher)        |
-| 48 |	Random Image Feed	                 | [Live Demo](random-image-feed)               |
-| 49 |	Todo List	                         | [Live Demo](todo-list)                       |
-| 50 |	Insect Catch Game	                 | [Live Demo](insect-catch-game)               |
+| 48 |	Random Image Feed	                 | [Live Demo](random-image-feed)              |
+| 49 |	Todo List	                         | [Live Demo](todo-list)                      |
+| 50 |	Insect Catch Game	                 | [Live Demo](insect-catch-game)              |
 
 <!-- ---------------------------------------------------------------------------------- -->
 
