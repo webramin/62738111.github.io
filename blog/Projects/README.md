@@ -106,7 +106,7 @@
 | 41 |	Verify Account Ui	                 | [Live Demo](verify-account-ui)              |
 | 42 |	Live User Filter	                 | [Live Demo](live-user-filter)                |
 | 43 |	Feedback Ui Design	               | [Live Demo](feedback-ui-design)              |
-| 44 |	Custom Range Slider	               | [Live Demo](custom-Range-slider)            |
+| 44 |	Custom Range Slider	               | [Live Demo](custom-range-slider)            |
 | 45 |	Netflix Mobile Navigation	         | [Live Demo](netflix-mobile-navigation)      |
 | 46 |	Quiz App	                         | [Live Demo](quiz-app)                        |
 | 47 |	Testimonial Box Switcher	         | [Live Demo](testimonial-box-switcher)        |
