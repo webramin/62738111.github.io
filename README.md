@@ -1,3 +1,3 @@
 # 62738111.github.io
 
-[blog](blog)>[Projects](bolog/Projects)
+[blog](blog)>[Projects](blog/Projects)
