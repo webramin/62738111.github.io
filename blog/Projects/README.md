@@ -65,8 +65,8 @@
 |:---:|:----------------------------------:|:--------------------------------------------:|
 | 01 |  Expanding Cards	                   | [Live Demo](expanding-cards)                 |
 | 02 |	Progress Steps	                   | [Live Demo](progress-steps)                  |
-| 03 |	Rotating Navigation Animation	     | [Live Demo](rotating-navigation-animation)   |
-| 04 |	Hidden Search Widget	             | [Live Demo](hidden-search-Widget)            |
+| 03 |	Rotating Navigation Animation	     | [Live Demo](rotating-nav-animation)   |
+| 04 |	Hidden Search Widget	             | [Live Demo](hidden-search-widget)            |
 | 05 |	Blurry Loading	                   | [Live Demo](blurry-loading)                  |
 | 06 |	Scroll Animation	                 | [Live Demo](scroll-animation)                |
 | 07 |	Split Landing Page	               | [Live Demo](split-landing-page)              |
