@@ -56,6 +56,60 @@
 | 49  | [Todo List](https://github.com/bradtraversy/50projects50days/tree/master/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
 
+<!-- ---------------------------------------------------------------------------------- -->
+|  # |                NAME                 |                   Live Demo                  |
+| :-:|:-----------------------------------:|:--------------------------------------------:|
+| 01 |  Expanding Cards	                   | [Live Demo](Expanding-Cards)                 |
+| 02 |	Progress Steps	                   | [Live Demo](Progress-Steps)                  |
+| 03 |	Rotating Navigation Animation	     | [Live Demo](Rotating-Navigation-Animation)   |
+| 04 |	Hidden Search Widget	             | [Live Demo](Hidden-Search-Widget)            |
+| 05 |	Blurry Loading	                   | [Live Demo](Blurry-Loading)                  |
+| 06 |	Scroll Animation	                 | [Live Demo](Scroll-Animation)                |
+| 07 |	Split Landing Page	               | [Live Demo](Split-Landing-Page)              |
+| 08 |	Form Wave	                         | [Live Demo](Form-Wave)                       |
+| 09 |	Sound Board	                       | [Live Demo](Sound-Board)                     |
+| 10 |	Dad Jokes	                         | [Live Demo](Dad-Jokes)                       |
+| 11 |	Event Keycodes	                   | [Live Demo](Event-Keycodes)                  |
+| 12 |	Faq Collaps                        | [Live Demo](Faq-Collaps)                     |
+| 13 |	Random Choice Picker	             | [Live Demo](Random-Choice-Picker)            |
+| 14 |	Animated Navigation	               | [Live Demo](Animated-Navigation)             |
+| 15 |	Incrementing Counter	             | [Live Demo](Incrementing-Counter)            |
+| 16 |	Drink Water                        | [Live DemO](Drink-Water)                     |
+| 17 |	Movie App	                         | [Live Demo](Movie-App)                       |
+| 18 |	Background Slider	                 | [Live Demo](Background-Slider)               |
+| 19 |	Theme Clock                        | [Live DemO](Theme-Clock)                     |
+| 20 |	Button Ripple Effect	             | [Live Demo](Button-Ripple-Effect)            |
+| 21 |	Drag N Drop                        | [Live DemO](Drag-N-Drop)                     |
+| 22 |	Drawing App                        | [Live DemO](Drawing-App)                     |
+| 23 |	Kinetic Loader	                   | [Live Demo](Kinetic-Loader)                  |
+| 24 |	Content Placeholder	               | [Live Demo](Content-Placeholder)             |
+| 25 |	Sticky Navbar	                     | [Live Demo](Sticky-Navbar)                   |
+| 26 |	Double Vertical Slider	           | [Live Demo](Double-Vertical-Slider)          |
+| 27 |	Toast Notification	               | [Live Demo](Toast-Notification)              |
+| 28 |	Github Profiles	                   | [Live Demo](Github-Profiles)                 |
+| 29 |	Double Click Heart	               | [Live Demo](Double-Click-Heart)              |
+| 30 |	Auto Text Effect	                 | [Live Demo](Auto-Text-Effect)                |
+| 31 |	Password Generator	               | [Live Demo](Password-Generator)              |
+| 32 |	Good Cheap Fast	                   | [Live Demo](Good-Cheap-Fast)                 |
+| 33 |	Notes App	                         | [Live Demo](Notes-App)                       |
+| 34 |	Animated Countdown	               | [Live Demo](Animated-Countdown)              |
+| 35 |	Image Carousel	                   | [Live Demo](Image-Carousel)                  |
+| 36 |	Hoverboard	                       | [Live Demo](Hoverboard)                      |
+| 37 |	Pokedex	                           | [Live Demo](Pokedex)                         |
+| 38 |	Mobile Tab Navigation	             | [Live Demo](Mobile-Tab-Navigation)           |
+| 39 |	Password Strength Background	     | [Live Demo](Password-Strength-Background	)   |
+| 40 |	3d Background Boxes	               | [Live Demo](3d-Background-Boxes)             |
+| 41 |	Verify Account Ui	                 | [Live Demo](Verify-Account-Ui)               |
+| 42 |	Live User Filter	                 | [Live Demo](Live-User-Filter)                |
+| 43 |	Feedback Ui Design	               | [Live Demo](Feedback-Ui-Design)              |
+| 44 |	Custom Range Slider	               | [Live Demo](Custom-Range-Slider)             |
+| 45 |	Netflix Mobile Navigation	         | [Live Demo](Netflix-Mobile-Navigation)       |
+| 46 |	Quiz App	                         | [Live Demo](Quiz-App)                        |
+| 47 |	Testimonial Box Switcher	         | [Live Demo](Testimonial Box Switcher)        |
+| 48 |	Random Image Feed	                 | [Live Demo](Random Image-Feed)               |
+| 49 |	Todo List	                         | [Live Demo](Todo-List)                       |
+| 50 |	Insect Catch Game	                 | [Live Demo](Insect-Catch-Game)               |
+<!-- ---------------------------------------------------------------------------------- -->
 
 **نکته** در مورد درخواست های کششی : همه این پروژه ها بخشی از دوره هستند. در حالی که من از افرادی که تلاش می کنند برخی چیزها را زیباتر کنند یا ویژگی های جدید اضافه کنند قدردانی می کنم، ما فقط درخواست های کشش را می پذیریم و مشکلات را برای رفع اشکال بررسی می کنیم تا کد مطابق با دوره بماند.
 
