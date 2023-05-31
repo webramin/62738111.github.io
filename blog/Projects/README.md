@@ -59,8 +59,10 @@
 -->
 
 <!-- ---------------------------------------------------------------------------------- -->
+
+
 |  # |                NAME                 |                   Live Demo                  |
-| :-:|:-----------------------------------:|:--------------------------------------------:|
+|:---:|:----------------------------------:|:--------------------------------------------:|
 | 01 |  Expanding Cards	                   | [Live Demo](expanding-cards)                 |
 | 02 |	Progress Steps	                   | [Live Demo](progress-steps)                  |
 | 03 |	Rotating Navigation Animation	     | [Live Demo](rotating-navigation-animation)   |
@@ -111,6 +113,7 @@
 | 48 |	Random Image Feed	                 | [Live Demo](random-image-feed)               |
 | 49 |	Todo List	                         | [Live Demo](todo-list)                       |
 | 50 |	Insect Catch Game	                 | [Live Demo](insect-catch-game)               |
+
 <!-- ---------------------------------------------------------------------------------- -->
 
 **نکته** در مورد درخواست های کششی : همه این پروژه ها بخشی از دوره هستند. در حالی که من از افرادی که تلاش می کنند برخی چیزها را زیباتر کنند یا ویژگی های جدید اضافه کنند قدردانی می کنم، ما فقط درخواست های کشش را می پذیریم و مشکلات را برای رفع اشکال بررسی می کنیم تا کد مطابق با دوره بماند.
@@ -120,8 +123,8 @@
 
 The MIT License
 
-Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
-
+Copyright (c) 2020-2021 Traversy Media https://62738111.github.io/blog/Projects/
+<!--
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -140,3 +143,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+ -->
